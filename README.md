@@ -96,6 +96,7 @@
 - 👣 **NSS Member** – Conducted population survey in Chakaraypur  
 - 🧺 Volunteered for slum outreach in Gwalior  
 - 👩‍💻 Member – Amity Coding Club
+- 👩‍💻 Volunteer in Saleforce Admin Group Gwalior
 
 ---
 
