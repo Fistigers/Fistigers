@@ -11,12 +11,41 @@ I'm a Computer Science undergraduate at **Amity University Madhya Pradesh** (202
 
 ---
 
+## 🧰 Technical Skills
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks, Libraries & Tools  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005f5f?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## 💼 Projects & Internships
 
 ### 🔗 [AI Resume Builder](https://github.com/Fistigers/AI-Resume-Builder)  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB (MERN)  
-- Built a full-stack application for resume creation with PDF export, live editing, and authentication.  
-- RESTful API and template customization.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+- Built a full-stack app for resume creation with PDF export, live editing, and authentication.
 
 ### 🏙️ [AI-Powered Smart City Complaint Bot](https://github.com/Fistigers/SmartCityBot)  
 **Tech Stack:** Streamlit, LangChain, Gemini AI, MySQL, MongoDB  
@@ -36,29 +65,15 @@ I'm a Computer Science undergraduate at **Amity University Madhya Pradesh** (202
 
 ---
 
-## 🧠 Technical Skills
+## 🏆 Certifications & Achievements
 
-### 👩‍💻 Programming Languages
-- Python, Java, C++, JavaScript, MySQL, HTML, CSS
-
-### 🧱 Frameworks & Libraries
-- React.js, Node.js, Express.js, Flask, FastAPI, WordPress  
-- LangChain, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-### 🧰 Developer Tools
-- Git, GitHub, Postman, VS Code, Eclipse, Google Cloud Platform
-
----
-
-## 📜 Certifications & Achievements
-
-- 🥇 **Salesforce Certified AI Associate** – Credential ID: 5895185 (Issued: Mar 2025)  
-- 🥈 **Salesforce Certified Agentforce Specialist** – Credential ID: 5989591 (Issued: Apr 2025)  
-- 🧠 **AI-ML Virtual Internship – Google for Developers & AICTE NEAT** (Issued: Mar 2024)  
-- 🖥️ **C++ Programming Internship – InternPe** (Issued: Sep 2023)  
-- 🏅 **Solved 300+ DSA Problems** on [LeetCode](https://leetcode.com/u/surabhi32_rathore/)  
-- 💻 **Solved 150+ Problems** on Coding Ninjas  
-- 🥋 **Silver Medalist** in AITWPF National Level Karate Championship (2022)
+- 🥇 **Salesforce Certified AI Associate** – Credential ID: 5895185  
+- 🥈 **Salesforce Certified Agentforce Specialist** – Credential ID: 5989591  
+- 🤖 **AI-ML Virtual Internship – Google for Developers & AICTE NEAT**  
+- 💻 **C++ Programming Internship – InternPe**  
+- ✅ Solved **300+ DSA Problems** on [LeetCode](https://leetcode.com/u/surabhi32_rathore/)  
+- ✅ Solved **150+ Problems** on Coding Ninjas  
+- 🥋 **Silver Medalist** in AITWPF National Karate Championship (2022)
 
 ---
 
@@ -71,25 +86,25 @@ I'm a Computer Science undergraduate at **Amity University Madhya Pradesh** (202
 
 ---
 
-## 🧑‍🤝‍🧑 Community Service
+## 🤝 Community Work
 
-- 🏘️ Conducted a **population survey** in Chakaraypur village with NSS  
-- 🧺 Distributed essential items in Gwalior slums during a social activity (Nov 2022)  
-- 💡 **NSS Volunteer** and **Member – Amity Coding Club**
+- 🏘️ Population survey in Chakaraypur village with NSS  
+- 🧺 Distributed essentials in Gwalior slums (Nov 2022)  
+- 👥 Member – **NSS** and **Amity Coding Club**
 
 ---
 
-## ✨ Soft Skills & Traits
+## 🧠 Soft Skills
 
-- Creative Thinker  
+- Creative Thinking  
 - Leadership & Teamwork  
-- Hardworking & Curious  
-- Proficient in MS Excel, Word, PowerPoint  
+- Hardworking and Curious  
+- Tools: Excel, Word, PowerPoint  
 - Languages: English, Hindi, French
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Fistigers GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fistigers&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fistigers&layout=compact&theme=tokyonight)  
