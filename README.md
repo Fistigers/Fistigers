@@ -3,9 +3,9 @@
 🎓 B.Tech CSE | AI/ML | Full Stack Developer  
 🚀 Passionate about building impactful tech using AI, React, and Python.
 
-- 🔭 Currently working on: AI Resume Builder, Smart City Complaint Bot
-- 🌱 Learning: FastAPI, DevOps, Advanced Machine Learning
-- 🧠 300+ DSA problems solved on [LeetCode](https://leetcode.com/u/surabhi32_rathore/)
+- 🔭 Currently working on: AI Resume Builder, Smart City Complaint Bot  
+- 🌱 Learning: FastAPI, DevOps, Advanced Machine Learning  
+- 🧠 300+ DSA problems solved on [LeetCode](https://leetcode.com/u/surabhi32_rathore/)  
 - ⚡ Fun fact: I'm also a national-level Karate champion 🥋
 
 ---
@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats
 
-![Fistigers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fistigers&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fistigers&layout=compact&theme=tokyonight)
+![Fistigers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fistigers&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fistigers&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fistigers&theme=dark)
 
 ---
